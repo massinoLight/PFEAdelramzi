@@ -1,0 +1,7 @@
+package util
+
+object BackendSettings {
+    val APPLICATION_ID = "5A1113CD-7A0E-DC10-FF45-6AFFE7D82300"
+    val ANDROID_SECRET_KEY = "4B66AFC6-2628-4C76-A974-A8586857D83F"
+    val VERSION = "v1"
+}
